@@ -20,7 +20,7 @@ bundle exec cucumber features/APIInteractiones.feature -r support/step_definitio
 
 ```
 
-So.. you might see something like...
+So.. you might see something like... click to watch the video on Youtube
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vTe87TKVl7M/0.jpg)](https://www.youtube.com/watch?v=vTe87TKVl7M)
 
